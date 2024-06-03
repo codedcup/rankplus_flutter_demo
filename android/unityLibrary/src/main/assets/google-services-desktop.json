@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "25092496203",
+    "project_id": "vgyani-students-f235c",
+    "storage_bucket": "vgyani-students-f235c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25092496203:android:bb99947b21c7b70ee326ce",
+        "android_client_info": {
+          "package_name": "com.vgyaniedutainment.vgyanistudents"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClfRPnS05sNaaFMEC2kpRSmOPG6dLU2Tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
