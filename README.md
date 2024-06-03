@@ -17,3 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 # rankplus_flutter_demo
 
 NDK Version: 21.3.6528147
+
+For more details: https://pub.dev/packages/flutter_unity_widget
