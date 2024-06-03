@@ -16,6 +16,12 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 # rankplus_flutter_demo
 
+Flutter Installation
+```
+dependencies:
+  flutter_unity_widget: ^2022.2.0
+```
+
 NDK Version: 21.3.6528147
 
 For more details: https://pub.dev/packages/flutter_unity_widget
